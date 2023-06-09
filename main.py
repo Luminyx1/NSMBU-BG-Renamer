@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # NSMBU Background Renamer
 
 # Copyright (c) 2021 Luminyx1
